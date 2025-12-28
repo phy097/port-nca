@@ -1,0 +1,19 @@
+/* Custom font and spacing */
+body {
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Libre Baskerville', serif;
+}
+
+.hero h1 {
+    font-weight: 700;
+}
+
+.card-text {
+    font-size: 0.95rem;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
